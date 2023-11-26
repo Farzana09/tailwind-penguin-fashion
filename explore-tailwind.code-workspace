@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../module-15.5/tea-house"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tea-house"
+	}
+}
